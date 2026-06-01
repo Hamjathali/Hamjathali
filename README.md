@@ -1,8 +1,8 @@
-[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HAMJATHALI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer&descAlignY=62&descSize=16)](https://github.com/hamjathi-dev)
+[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HAMJATHALI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer&descAlignY=62&descSize=16)](https://github.com/Hamjathali)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+Scalable+Java+Applications;Spring+Boot+%26+Microservices;React+%26+Full+Stack+Development;Problem+Solver+%26+Tech+Enthusiast)](https://github.com/hamjathi-dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+Scalable+Java+Applications;Spring+Boot+%26+Microservices;React+%26+Full+Stack+Development;Problem+Solver+%26+Tech+Enthusiast)](https://github.com/Hamjathali)
 
 </div>
 
@@ -76,12 +76,12 @@ public class Hamjathali {
 
 <div align="center">
 
-<a href="https://github.com/hamjathi-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamjathi-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+<a href="https://github.com/Hamjathali">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamjathali&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
 </a>
 
-<a href="https://github.com/hamjathi-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamjathi-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+<a href="https://github.com/Hamjathali">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamjathali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
 </a>
 
 </div>
@@ -92,7 +92,7 @@ public class Hamjathali {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hamjathi-dev&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/hamjathi-dev)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hamjathali&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/Hamjathali)
 
 </div>
 
@@ -102,7 +102,7 @@ public class Hamjathali {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamjathi-dev&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/hamjathi-dev)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hamjathali&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Hamjathali)
 
 </div>
 
@@ -112,7 +112,7 @@ public class Hamjathali {
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=hamjathi-dev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/hamjathi-dev)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Hamjathali&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Hamjathali)
 
 </div>
 
@@ -150,8 +150,8 @@ public class Hamjathali {
 
 | 🔗 Project | 📚 Tech Stack | ✨ Highlights |
 |-----------|--------------|--------------|
-| **[Hospital Management System (Microservices)](https://github.com/hamjathi-dev/hospital-management-microservices)** | Java, Spring Boot, Spring Cloud (Gateway, Eureka), PostgreSQL, React, REST APIs | Designed scalable microservices architecture with 3 independent services (Auth, Patient, Doctor); Implemented JWT-based security with role-based authorization (ADMIN, DOCTOR, PATIENT); Integrated Eureka service discovery for dynamic service registration; Built optimized PostgreSQL databases for data consistency; Achieved 99% uptime with fault isolation |
-| **[Student Management System](https://github.com/hamjathi-dev/student-management-system)** | Java, Spring Boot, PostgreSQL, React, REST APIs, HTML, CSS | Built full-stack CRUD application with 100+ students data handling; Integrated PostgreSQL with JPA for efficient data operations; Created interactive React dashboard with real-time updates; Implemented REST APIs for seamless frontend-backend communication; Reduced data retrieval time by 35% through query optimization |
+| **[Hospital Management System (Microservices)](https://github.com/Hamjathali/hospital-management-microservices)** | Java, Spring Boot, Spring Cloud (Gateway, Eureka), PostgreSQL, React, REST APIs | Designed scalable microservices architecture with 3 independent services (Auth, Patient, Doctor); Implemented JWT-based security with role-based authorization (ADMIN, DOCTOR, PATIENT); Integrated Eureka service discovery for dynamic service registration; Built optimized PostgreSQL databases for data consistency; Achieved 99% uptime with fault isolation |
+| **[Student Management System](https://github.com/Hamjathali/student-management-system)** | Java, Spring Boot, PostgreSQL, React, REST APIs, HTML, CSS | Built full-stack CRUD application with 100+ students data handling; Integrated PostgreSQL with JPA for efficient data operations; Created interactive React dashboard with real-time updates; Implemented REST APIs for seamless frontend-backend communication; Reduced data retrieval time by 35% through query optimization |
 
 ---
 
@@ -210,7 +210,7 @@ public class Hamjathali {
 [![Phone](https://img.shields.io/badge/Phone-+91%209486459616-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919486459616)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamjathali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamjathali/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-hamjath--portfolio.vercel.app-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://hamjath-portfolio.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-hamjathi--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamjathi-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Hamjathali-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamjathali)
 
 </div>
 
@@ -235,7 +235,7 @@ If you find my work helpful, please consider:
 
 <div align="center">
 
-[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)](https://github.com/hamjathi-dev)
+[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)](https://github.com/Hamjathali)
 
 **Made with ❤️ by Hamjathali**
 
