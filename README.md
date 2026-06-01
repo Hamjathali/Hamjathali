@@ -14,7 +14,7 @@
 public class Hamjathali {
     private String name = "Hamjathali I";
     private String location = "Tamil Nadu, India";
-    private String degree = "B.Tech Computer Science & Engineering";
+    private String degree = "B.E Computer Science & Engineering";
     private String[] techStack = {
         "Java", "Spring Boot", "Spring Cloud", "React", 
         "PostgreSQL", "REST APIs", "Microservices"
@@ -69,12 +69,13 @@ public class Hamjathali {
 ### Tools & Platforms
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/Hamjathali">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamjathali&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
@@ -82,6 +83,19 @@ public class Hamjathali {
 
 <a href="https://github.com/Hamjathali">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamjathali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+</a>
+
+</div> -->
+
+<!-- Replace the stats section with this: -->
+<div align="center">
+
+<a href="https://github.com/Hamjathali">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamjathali&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800" />
+</a>
+
+<a href="https://github.com/Hamjathali">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamjathali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800" />
 </a>
 
 </div>
@@ -170,9 +184,9 @@ public class Hamjathali {
 
 | 🎓 Degree | 🏫 Institution | 📅 Year | 📊 Score |
 |----------|----------------|---------|----------|
-| **Bachelor of Computer Science & Engineering** | I.F.E.T College of Engineering, Villupuram - Tamil Nadu | Nov 2022 - 2026 | **CGPA: 8.0/10** |
-| **HSC** | Sri Lakshmi Chordia Matriculation Hr. Sec School, Cuddalore | Nov 2020 - 2022 | **77%** |
-| **SSLC** | Sri Lakshmi Chordia Matriculation Hr. Sec School, Cuddalore | - | **74%** |
+| **Bachelor of Computer Science & Engineering** | I.F.E.T College of Engineering, Villupuram - Tamil Nadu | 2022 - 2026 | **CGPA: 8.0/10** |
+| **HSC** | Sri Lakshmi Chordia Matriculation Hr. Sec School, Cuddalore | 2020 - 2021 | **77%** |
+| **SSLC** | Sri Lakshmi Chordia Matriculation Hr. Sec School, Cuddalore | 2021 - 2022 | **74%** |
 
 ---
 
